@@ -1,0 +1,7 @@
+node_modules/
+dist/
+coverage/
+*.tgz
+.DS_Store
+promo-*.md
+non-tech_*/
